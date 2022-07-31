@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextApp/static/css/main.add4b864.css",
+    "main.js": "/TextApp/static/js/main.c21bc07c.js",
+    "index.html": "/TextApp/index.html",
+    "main.add4b864.css.map": "/TextApp/static/css/main.add4b864.css.map",
+    "main.c21bc07c.js.map": "/TextApp/static/js/main.c21bc07c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.add4b864.css",
+    "static/js/main.c21bc07c.js"
+  ]
+}
